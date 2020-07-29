@@ -1,0 +1,350 @@
+{
+    "informable": {
+        "Camera": [
+            "Good",
+            "15+",
+            "15"
+        ],
+        "Battery": [
+            "Good",
+            "4000+",
+            "8000+",
+            "3000+",
+            "6000+",
+            "3500+",
+            "1800+",
+            "high",
+            "3000",
+            "High",
+            "4500+"
+        ],
+        "Color": [
+            "Black",
+            "White",
+            "Grey",
+            "Gold",
+            "Blue",
+            "Silver",
+            "Non Black",
+            "Non Silver",
+            "Black&Blue",
+            "Pink",
+            "Non Gunmetal",
+            "Non Grey",
+            "Non Crown Gold",
+            "Pearl White",
+            "Blue||Gold",
+            "Aquamarine Green",
+            "Pearl White\n",
+            "Onyx Black",
+            "Green",
+            "Titanium grey",
+            "Good",
+            "Chrome",
+            "Gray",
+            "Non Blue",
+            "Non Gold",
+            "Orange",
+            "Non White",
+            "Charcoal Black\n"
+        ],
+        "OS": [
+            "Android",
+            "Non",
+            "Windows",
+            "Non And",
+            "And",
+            "Bla",
+            "Sym",
+            " Non And",
+            "Mic",
+            "iOS",
+            " And",
+            "MIc",
+            "Tiz",
+            " Bla"
+        ],
+        "Dualsim": [
+            "Y"
+        ],
+        "Touch": [
+            "Y",
+            "No"
+        ],
+        "Memory": [
+            "Good",
+            "High",
+            "6GB"
+        ],
+        "Cost": [
+            "less",
+            "Less",
+            "2k",
+            "15k",
+            "400",
+            "Expensive",
+            "500",
+            "800+",
+            "700",
+            "650",
+            "400+",
+            "350",
+            "300",
+            "150",
+            "250",
+            "200",
+            " 300",
+            "800",
+            "450",
+            "340",
+            "160",
+            "600",
+            "270",
+            " 250",
+            "500+",
+            "280",
+            "260"
+        ],
+        "Rating": [
+            "High",
+            "Good",
+            "4+"
+        ],
+        "Price": [
+            "15k",
+            "10k",
+            "20k",
+            "350",
+            "220",
+            "300"
+        ],
+        "Released_Yr": [
+            "Latest",
+            "2019",
+            "2016",
+            "2017",
+            "Recent",
+            "2014",
+            "2015"
+        ],
+        "Company": [
+            "Vivo",
+            "Nokia",
+            "Jio",
+            "Acer"
+        ],
+        "Model": [
+            "I",
+            "E",
+            "F",
+            "Paradise",
+            "Yoga Tab 3",
+            "Xperia XA Ultra",
+            "Iconia Tab A700 ",
+            "Galaxy Note7",
+            "U8150 IDEOS",
+            "Iconia Tab A501\n",
+            "Xperia Arc S",
+            "Samsung",
+            "Apple",
+            "Xiaomi",
+            "Gionee"
+        ],
+        "Total_Review": [
+            "15K+",
+            "16k+"
+        ],
+        "DualSim": [
+            "Y"
+        ],
+        "RAM": [
+            "Good",
+            "6",
+            "3",
+            "4",
+            "4+",
+            "2+",
+            "3+"
+        ],
+        "Display_Size": [
+            "Big",
+            "Small",
+            "small",
+            "Medium",
+            "Average",
+            "Moderate"
+        ],
+        "Weight_g": [
+            "Light",
+            " Light",
+            "Less",
+            "Heavy",
+            "140",
+            "150"
+        ],
+        "Brand": [
+            "HTC",
+            "Lenovo",
+            "Samsung",
+            "Samsung ",
+            "Apple",
+            "Sony",
+            "Non Oppo",
+            "LG",
+            "Acer",
+            "Oppo",
+            "Motorola",
+            "Vivo",
+            "Huawei",
+            "Blackberry",
+            "Xiaomi",
+            "BlackBerry",
+            "Sony Ericsson",
+            "Non And",
+            "Asus",
+            "LeEco\n",
+            "Nokia",
+            "Xiamo",
+            "Gionee",
+            "Non Coolpad",
+            "Alcatel",
+            "Allview",
+            "ZTE",
+            "Xiaomo ",
+            "Coolpad",
+            "Gigabyte",
+            "T",
+            "Micromax",
+            "Vodafone",
+            "Oneplus",
+            "Vertu",
+            "Meizu",
+            "Archos",
+            "Google",
+            "OnePlus",
+            "HP"
+        ],
+        "Radio": [
+            "Yes",
+            "Y"
+        ],
+        "Internal_RAM": [
+            "64GB",
+            "Good",
+            "128",
+            "128 GB",
+            "64+",
+            "64",
+            "32+",
+            "32",
+            "16",
+            "High",
+            "64 GB",
+            "",
+            "16+",
+            "8",
+            "4"
+        ],
+        "Sim": [
+            "D",
+            "T",
+            "S",
+            "M"
+        ],
+        "P_Camera": [
+            "Good",
+            "20",
+            "16+",
+            "Good  ",
+            "15",
+            "20+",
+            "15+",
+            "13+",
+            "Non Dual",
+            "16 ",
+            "good",
+            "10+",
+            "16",
+            "Dual",
+            "12+",
+            "13"
+        ],
+        "S_Camera": [
+            "Good",
+            "16+",
+            "12+",
+            "13+",
+            "Good      ",
+            "Good     ",
+            "good",
+            "15+",
+            "Good        ",
+            "Good       ",
+            "Non VGA",
+            "5",
+            "Dual",
+            "13",
+            "10+",
+            "8+"
+        ],
+        "Internal_Ram": [
+            "Good"
+        ],
+        "GPS": [
+            "Y"
+        ],
+        "Internal RAM": [
+            "128",
+            "32"
+        ],
+        "Released_ Yr": [
+            "2017"
+        ],
+        "Released_Month": [
+            "May"
+        ],
+        "SIM": [
+            "D",
+            "M"
+        ],
+        "weight_g": [
+            "Less",
+            "Light"
+        ],
+        "Weight_G": [
+            "Light"
+        ],
+        "Displa_Size": [
+            "Big"
+        ],
+        " Internal_RAM": [
+            "Good"
+        ],
+        "nll": [
+            "Y",
+            "64"
+        ],
+        "battery": [
+            "Good"
+        ],
+        "Dsplay_Size": [
+            "Big",
+            "Medium"
+        ],
+        " Model": [
+            "4.65 HD"
+        ],
+        "Weight": [
+            "Less",
+            "Light"
+        ],
+        "Apple": [
+            "Light",
+            "2016",
+            "Blue"
+        ],
+        " P_Camera": [
+            "Good"
+        ]
+    }
+}

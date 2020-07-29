@@ -1,0 +1,2540 @@
+[
+    {
+        "camera": "good",
+        "battery": "good",
+        "color": "black"
+    },
+    {
+        "os": "android",
+        "dual": "yes",
+        "color": "white"
+    },
+    {
+        "touch": "yes",
+        "memory": "good",
+        "camera": "good",
+        "os": "android"
+    },
+    {
+        "color": "grey",
+        "memory": "good",
+        "cost": "less"
+    },
+    {
+        "camera": "good",
+        "rating": "high",
+        "cost": "less"
+    },
+    {
+        "camera": "good",
+        "memory": "high"
+    },
+    {
+        "camera": "good",
+        "memory": "good",
+        "cost": "less"
+    },
+    {
+        "touch": "yes",
+        "battery": "good",
+        "price": "15k"
+    },
+    {
+        "color": "white",
+        "memory": "good",
+        "price": "10k"
+    },
+    {
+        "year": "latest",
+        "os": "android"
+    },
+    {
+        "touch": "no",
+        "cost": "less"
+    },
+    {
+        "company": "vivo",
+        "model": "i",
+        "color": "gold",
+        "camera": "15"
+    },
+    {
+        "camera": "good",
+        "memory": "good",
+        "os": "windows",
+        "review": "15k"
+    },
+    {
+        "dual": "yes",
+        "touch": "yes",
+        "cost": "less"
+    },
+    {
+        "company": "nokia",
+        "model": "e",
+        "cost": "less"
+    },
+    {
+        "review": "16k",
+        "battery": "good",
+        "price": "20k",
+        "os": "android"
+    },
+    {
+        "rating": "good",
+        "year": "2019",
+        "color": "black"
+    },
+    {
+        "touch": "no",
+        "cost": "2k"
+    },
+    {
+        "dual": "yes",
+        "cost": "less",
+        "memory": "6gb"
+    },
+    {
+        "camera": "15",
+        "os": "android"
+    },
+    {
+        "camera": "good",
+        "rating": "good",
+        "cost": "less"
+    },
+    {
+        "dual": "yes",
+        "cost": "less"
+    },
+    {
+        "company": "jio",
+        "model": "f",
+        "cost": "less",
+        "os": "android"
+    },
+    {
+        "rating": "good",
+        "os": "android"
+    },
+    {
+        "color": "blue",
+        "dual": "yes",
+        "cost": "15k",
+        "rating": "4"
+    },
+    {
+        "battery": "good",
+        "ram": "good",
+        "color": "silver"
+    },
+    {
+        "battery": "good",
+        "size": "big",
+        "weight": "light"
+    },
+    {
+        "brand": "htc",
+        "model": "paradise",
+        "color": "blue"
+    },
+    {
+        "brand": "lenovo",
+        "model": "yoga tab 3",
+        "radio": "yes",
+        "cost": "400"
+    },
+    {
+        "weight": "light",
+        "ram": "64gb",
+        "radio": "yes",
+        "sim": "dual"
+    },
+    {
+        "camera": "good",
+        "ram": "good",
+        "cost": "less"
+    },
+    {
+        "size": "big",
+        "gps": "yes",
+        "cost": "less"
+    },
+    {
+        "ram": "good",
+        "battery": "good",
+        "weight": "light"
+    },
+    {
+        "sim": "t",
+        "color": "non-black"
+    },
+    {
+        "size": "small",
+        "ram": "good",
+        "color": "black",
+        "os": "ios"
+    },
+    {
+        "brand": "samsung",
+        "color": "blue",
+        "ram": "good"
+    },
+    {
+        "brand": "samsung",
+        "color": "non-black"
+    },
+    {
+        "brand": "htc",
+        "cost": "expensive"
+    },
+    {
+        "ram": "128",
+        "color": "non-silver"
+    },
+    {
+        "camera": "16"
+    },
+    {
+        "year": "2016",
+        "brand": "htc",
+        "cost": "500"
+    },
+    {
+        "sim": "dual",
+        "gps": "yes",
+        "year": "2017"
+    },
+    {
+        "ram": "128gb",
+        "cost": "less"
+    },
+    {
+        "weight": "light",
+        "size": "small",
+        "sim": "dual"
+    },
+    {
+        "year": "latest",
+        "cost": "800"
+    },
+    {
+        "brand": "apple",
+        "cost": "700"
+    },
+    {
+        "camera": "good",
+        "color": "gold",
+        "ram": "128"
+    },
+    {
+        "gps": "yes",
+        "ram": "good",
+        "size": "big"
+    },
+    {
+        "brand": "samsung",
+        "camera": "20"
+    },
+    {
+        "year": "2017",
+        "os": "android",
+        "color": "black&blue",
+        "sim": "dual"
+    },
+    {
+        "brand": "apple",
+        "cost": "650",
+        "ram": "64"
+    },
+    {
+        "gps": "yes",
+        "weight": "light"
+    },
+    {
+        "brand": "htc",
+        "weight": "light",
+        "year": "2017",
+        "month": "may",
+        "battery": "4000"
+    },
+    {
+        "camera": "good",
+        "battery": "good",
+        "year": "2017"
+    },
+    {
+        "battery": "good",
+        "weight": "light",
+        "ram": "64"
+    },
+    {
+        "ram": "good",
+        "battery": "good",
+        "weight": "light"
+    },
+    {
+        "color": "pink",
+        "sim": "dual",
+        "weight": "light"
+    },
+    {
+        "size": "big",
+        "ram": "good",
+        "camera": "16"
+    },
+    {
+        "brand": "samsung",
+        "ram": "good",
+        "cost": "less"
+    },
+    {
+        "camera": "good",
+        "battery": "good",
+        "color": "gold"
+    },
+    {
+        "os": "android",
+        "sim": "dual",
+        "color": "white"
+    },
+    {
+        "year": "2017",
+        "ram": "good",
+        "camera": "good",
+        "sim": "dual",
+        "radio": "yes"
+    },
+    {
+        "color": "grey",
+        "camera": "good",
+        "sim": "dual",
+        "cost": "less"
+    },
+    {
+        "camera": "good",
+        "weight": "light",
+        "cost": "400"
+    },
+    {
+        "ram": "64",
+        "color": "non-gunmetal"
+    },
+    {
+        "gps": "yes",
+        "camera": "15",
+        "ram": "good"
+    },
+    {
+        "sim": "dual",
+        "cost": "less",
+        "year": "latest"
+    },
+    {
+        "sim": "dual",
+        "radio": "yes",
+        "brand": "samsung"
+    },
+    {
+        "brand": "sony",
+        "model": "xperia xa ultra",
+        "battery": "4000"
+    },
+    {
+        "weight": "light",
+        "brand": "vivo"
+    },
+    {
+        "color": "gold",
+        "camera": "good",
+        "cost": "400",
+        "size": "small"
+    },
+    {
+        "size": "small",
+        "ram": "good",
+        "color": "black",
+        "os": "android"
+    },
+    {
+        "brand": "lg",
+        "color": "silver",
+        "ram": "good"
+    },
+    {
+        "brand": "acer",
+        "model": "iconia tab a700",
+        "color": "non-grey"
+    },
+    {
+        "brand": "oppo",
+        "cost": "400"
+    },
+    {
+        "ram": "good",
+        "battery": "good",
+        "weight": "light"
+    },
+    {
+        "year": "latest",
+        "cost": "350",
+        "color": "non-gold"
+    },
+    {
+        "color": "grey",
+        "radio": "yes",
+        "sim": "dual",
+        "os": "ios"
+    },
+    {
+        "brand": "sony",
+        "cost": "400"
+    },
+    {
+        "size": "small",
+        "battery": "good",
+        "color": "gold"
+    },
+    {
+        "os": "android",
+        "sim": "dual",
+        "color": "white"
+    },
+    {
+        "gps": "yes",
+        "ram": "good",
+        "camera": "good",
+        "year": "recent"
+    },
+    {
+        "cost": "300",
+        "ram": "good",
+        "sim": "dual",
+        "size": "small"
+    },
+    {
+        "camera": "good",
+        "weight": "less",
+        "cost": "less"
+    },
+    {
+        "camera": "20",
+        "battery": "good"
+    },
+    {
+        "brand": "oppo",
+        "cost": "350",
+        "ram": "32"
+    },
+    {
+        "ram": "good",
+        "weight": "light",
+        "color": "blue||gold",
+        "battery": "8000"
+    },
+    {
+        "ram": "32",
+        "cost": "300"
+    },
+    {
+        "brand": "motorola",
+        "cost": "150"
+    },
+    {
+        "camera": "good",
+        "color": "gold",
+        "ram": "64"
+    },
+    {
+        "gps": "yes",
+        "ram": "good",
+        "size": "big"
+    },
+    {
+        "brand": "vivo",
+        "camera": "12"
+    },
+    {
+        "camera": "good",
+        "ram": "good"
+    },
+    {
+        "camera": "good",
+        "battery": "good",
+        "color": "black"
+    },
+    {
+        "size": "big",
+        "ram": "6"
+    },
+    {
+        "color": "gold",
+        "sim": "dual",
+        "cost": "500",
+        "ram": "32"
+    },
+    {
+        "battery": "good",
+        "ram": "good",
+        "color": "white"
+    },
+    {
+        "battery": "good",
+        "cost": "less"
+    },
+    {
+        "brand": "samsung",
+        "model": "galaxy note7",
+        "ram": "good"
+    },
+    {
+        "camera": "good",
+        "year": "2016"
+    },
+    {
+        "camera": "15",
+        "os": "android"
+    },
+    {
+        "year": "2017",
+        "radio": "yes",
+        "cost": "less"
+    },
+    {
+        "sim": "dual",
+        "os": "android",
+        "cost": "less"
+    },
+    {
+        "camera": "good",
+        "battery": "3000"
+    },
+    {
+        "year": "latest",
+        "ram": "6"
+    },
+    {
+        "color": "white",
+        "sim": "dual",
+        "cost": "400",
+        "size": "small"
+    },
+    {
+        "size": "small",
+        "ram": "64gb",
+        "radio": "yes",
+        "nll": "null"
+    },
+    {
+        "camera": "good",
+        "ram": "good",
+        "cost": "less"
+    },
+    {
+        "size": "big",
+        "gps": "yes",
+        "cost": "less"
+    },
+    {
+        "ram": "good",
+        "battery": "good",
+        "radio": "yes"
+    },
+    {
+        "sim": "t",
+        "color": "non-black"
+    },
+    {
+        "size": "small",
+        "ram": "good",
+        "color": "black",
+        "os": "android"
+    },
+    {
+        "camera": "13"
+    },
+    {
+        "brand": "htc",
+        "cost": "250"
+    },
+    {
+        "sim": "dual",
+        "gps": "yes",
+        "year": "recent"
+    },
+    {
+        "ram": "64",
+        "cost": "less"
+    },
+    {
+        "weight": "light",
+        "size": "small",
+        "color": "black"
+    },
+    {
+        "cost": "300"
+    },
+    {
+        "color": "green",
+        "sim": "s",
+        "cost": "200",
+        "size": "big"
+    },
+    {
+        "battery": "good",
+        "ram": "good",
+        "color": "white"
+    },
+    {
+        "battery": "good",
+        "weight": "light"
+    },
+    {
+        "brand": "huawei",
+        "model": "u8150 ideos",
+        "color": "silver"
+    },
+    {
+        "weight": "light",
+        "brand": "blackberry"
+    },
+    {
+        "weight": "light",
+        "ram": "64",
+        "battery": "6000",
+        "sim": "dual"
+    },
+    {
+        "size": "small",
+        "cost": "150"
+    },
+    {
+        "battery": "good",
+        "camera": "good",
+        "price": "350",
+        "size": "small"
+    },
+    {
+        "sim": "m",
+        "year": "2017",
+        "color": "black"
+    },
+    {
+        "battery": "good",
+        "cost": "200"
+    },
+    {
+        "sim": "dual",
+        "cost": "less",
+        "ram": "6"
+    },
+    {
+        "camera": "13",
+        "ram": "64"
+    },
+    {
+        "battery": "good",
+        "weight": "less",
+        "ram": "16"
+    },
+    {
+        "color": "black",
+        "sim": "dual",
+        "camera": "good"
+    },
+    {
+        "size": "big",
+        "memory": "high",
+        "camera": "16"
+    },
+    {
+        "brand": "vivo",
+        "ram": "good",
+        "cost": "less"
+    },
+    {
+        "camera": "good",
+        "battery": "good",
+        "color": "green"
+    },
+    {
+        "ram": "64",
+        "battery": "good",
+        "weight": "heavy"
+    },
+    {
+        "radio": "yes",
+        "battery": "good",
+        "weight": "light"
+    },
+    {
+        "os": "android",
+        "sim": "m",
+        "color": "black"
+    },
+    {
+        "year": "2016",
+        "ram": "good",
+        "camera": "good",
+        "os": "bla"
+    },
+    {
+        "gps": "yes",
+        "ram": "good",
+        "cost": "less"
+    },
+    {
+        "camera": "good",
+        "weight": "light",
+        "cost": "less"
+    },
+    {
+        "gps": "yes",
+        "cost": "300",
+        "ram": "good"
+    },
+    {
+        "camera": "good",
+        "ram": "good",
+        "sim": "dual"
+    },
+    {
+        "os": "android",
+        "battery": "good",
+        "price": "220"
+    },
+    {
+        "color": "black",
+        "os": "sym",
+        "weight": "light",
+        "camera": "good"
+    },
+    {
+        "ram": "high",
+        "size": "small",
+        "cost": "less"
+    },
+    {
+        "brand": "samsung",
+        "battery": "good",
+        "size": "small"
+    },
+    {
+        "camera": "good",
+        "ram": "good",
+        "os": "android"
+    },
+    {
+        "sim": "m",
+        "gps": "yes",
+        "radio": "yes",
+        "cost": "less"
+    },
+    {
+        "company": "acer",
+        "model": "iconia tab a501",
+        "cost": "200",
+        "sim": "dual"
+    },
+    {
+        "battery": "good",
+        "sim": "dual",
+        "cost": "350",
+        "os": "mic"
+    },
+    {
+        "sim": "dual",
+        "cost": "less",
+        "ram": "64"
+    },
+    {
+        "camera": "16",
+        "os": "sym"
+    },
+    {
+        "camera": "good",
+        "size": "small",
+        "cost": "less"
+    },
+    {
+        "sim": "dual",
+        "os": "android",
+        "cost": "less"
+    },
+    {
+        "brand": "oppo",
+        "camera": "non-dual"
+    },
+    {
+        "color": "white",
+        "sim": "m",
+        "cost": "300",
+        "weight": "heavy"
+    },
+    {
+        "battery": "good",
+        "ram": "good",
+        "color": "grey"
+    },
+    {
+        "battery": "good",
+        "size": "big",
+        "weight": "light"
+    },
+    {
+        "brand": "xiaomi",
+        "color": "gold"
+    },
+    {
+        "size": "small",
+        "battery": "good",
+        "weight": "light"
+    },
+    {
+        "brand": "samsung",
+        "color": "white"
+    },
+    {
+        "ram": "64",
+        "cost": "800",
+        "radio": "yes"
+    },
+    {
+        "weight": "light",
+        "ram": "64gb",
+        "radio": "yes",
+        "sim": "dual"
+    },
+    {
+        "brand": "lenovo",
+        "ram": "good",
+        "cost": "less"
+    },
+    {
+        "size": "big",
+        "gps": "yes",
+        "cost": "less"
+    },
+    {
+        "ram": "good",
+        "battery": "good",
+        "weight": "light"
+    },
+    {
+        "sim": "t",
+        "color": "non-black"
+    },
+    {
+        "year": "2017",
+        "ram": "good",
+        "color": "null",
+        "os": "ios"
+    },
+    {
+        "brand": "samsung",
+        "radio": "yes",
+        "ram": "good"
+    },
+    {
+        "camera": "15",
+        "battery": "good"
+    },
+    {
+        "brand": "htc",
+        "cost": "expensive"
+    },
+    {
+        "ram": "128",
+        "color": "blue"
+    },
+    {
+        "camera": "12"
+    },
+    {
+        "year": "2017",
+        "brand": "htc",
+        "cost": "500"
+    },
+    {
+        "sim": "m",
+        "gps": "yes",
+        "weight": "light",
+        "year": "2017"
+    },
+    {
+        "ram": "64gb",
+        "cost": "less"
+    },
+    {
+        "weight": "light",
+        "size": "small",
+        "sim": "dual"
+    },
+    {
+        "cost": "300"
+    },
+    {
+        "brand": "apple",
+        "cost": "700"
+    },
+    {
+        "camera": "good",
+        "color": "white",
+        "ram": "128"
+    },
+    {
+        "brand": "lg",
+        "ram": "good",
+        "size": "small"
+    },
+    {
+        "brand": "blackberry",
+        "camera": "16"
+    },
+    {
+        "os": "android",
+        "year": "2017",
+        "color": "black&blue",
+        "sim": "dual"
+    },
+    {
+        "brand": "apple",
+        "cost": "650",
+        "ram": ""
+    },
+    {
+        "gps": "yes",
+        "weight": "light"
+    },
+    {
+        "brand": "htc",
+        "weight": "light",
+        "year": "2017",
+        "month": "may",
+        "battery": "4000"
+    },
+    {
+        "camera": "good",
+        "battery": "good",
+        "year": "2016"
+    },
+    {
+        "ram": "good",
+        "battery": "good",
+        "weight": "light"
+    },
+    {
+        "color": "white",
+        "sim": "dual",
+        "weight": "light"
+    },
+    {
+        "size": "big",
+        "memory": "good",
+        "camera": "16"
+    },
+    {
+        "brand": "samsung",
+        "ram": "good",
+        "cost": "less"
+    },
+    {
+        "weight": "light",
+        "battery": "good",
+        "color": "gold"
+    },
+    {
+        "os": "android",
+        "sim": "dual",
+        "color": "chrome"
+    },
+    {
+        "year": "2017",
+        "ram": "good",
+        "camera": "good",
+        "sim": "dual",
+        "radio": "yes"
+    },
+    {
+        "color": "gray",
+        "camera": "good",
+        "cost": "less"
+    },
+    {
+        "camera": "good",
+        "weight": "light",
+        "cost": "400"
+    },
+    {
+        "ram": "64",
+        "color": "non-blue"
+    },
+    {
+        "gps": "yes",
+        "camera": "15",
+        "ram": "good"
+    },
+    {
+        "sim": "dual",
+        "cost": "less",
+        "year": "latest"
+    },
+    {
+        "sim": "dual",
+        "radio": "yes",
+        "brand": "samsung"
+    },
+    {
+        "brand": "ericsson",
+        "model": "xperia",
+        "battery": "3500"
+    },
+    {
+        "weight": "light",
+        "brand": "ios"
+    },
+    {
+        "color": "gold",
+        "camera": "good",
+        "cost": "400",
+        "size": "small"
+    },
+    {
+        "size": "small",
+        "ram": "good",
+        "os": "android"
+    },
+    {
+        "brand": "blackberry",
+        "color": "silver",
+        "camera": "10"
+    },
+    {
+        "brand": "asus",
+        "camera": "good",
+        "cost": "less"
+    },
+    {
+        "brand": "apple",
+        "cost": "450"
+    },
+    {
+        "ram": "good",
+        "battery": "good",
+        "weight": "light"
+    },
+    {
+        "year": "latest",
+        "cost": "350",
+        "camera": "16"
+    },
+    {
+        "color": "grey",
+        "radio": "yes",
+        "sim": "dual",
+        "os": "ios"
+    },
+    {
+        "weight": "light",
+        "cost": "340"
+    },
+    {
+        "size": "big",
+        "battery": "good",
+        "color": "gold"
+    },
+    {
+        "os": "bla",
+        "sim": "m",
+        "size": "big"
+    },
+    {
+        "gps": "yes",
+        "ram": "good",
+        "camera": "good",
+        "sim": "dual",
+        "year": "2016"
+    },
+    {
+        "cost": "400",
+        "ram": "good",
+        "sim": "dual",
+        "size": "small"
+    },
+    {
+        "camera": "good",
+        "weight": "light",
+        "cost": "less"
+    },
+    {
+        "camera": "16",
+        "battery": "good"
+    },
+    {
+        "brand": "leeco",
+        "cost": "350",
+        "ram": "64",
+        "os": "android"
+    },
+    {
+        "size": "big",
+        "color": "white",
+        "battery": "4000"
+    },
+    {
+        "year": "latest",
+        "cost": "300"
+    },
+    {
+        "brand": "motorola",
+        "cost": "160"
+    },
+    {
+        "year": "2017",
+        "color": "gold",
+        "ram": "64"
+    },
+    {
+        "gps": "yes",
+        "camera": "15",
+        "size": "big"
+    },
+    {
+        "brand": "vivo",
+        "camera": "12"
+    },
+    {
+        "camera": "good",
+        "ram": "good"
+    },
+    {
+        "camera": "good",
+        "size": "medium",
+        "color": "blue"
+    },
+    {
+        "size": "big",
+        "ram": "good",
+        "weight": "heavy"
+    },
+    {
+        "color": "blue",
+        "sim": "dual",
+        "os": "android",
+        "cost": "500",
+        "ram": "32"
+    },
+    {
+        "battery": "good",
+        "ram": "good",
+        "color": "black"
+    },
+    {
+        "battery": "good",
+        "size": "big",
+        "cost": "less"
+    },
+    {
+        "brand": "oppo",
+        "ram": "good"
+    },
+    {
+        "size": "big",
+        "year": "2017"
+    },
+    {
+        "year": "2017",
+        "size": "big"
+    },
+    {
+        "camera": "good",
+        "year": "2017"
+    },
+    {
+        "weight": "light",
+        "battery": "good",
+        "os": "android"
+    },
+    {
+        "year": "2017",
+        "radio": "yes",
+        "weight": "heavy"
+    },
+    {
+        "os": "android",
+        "ram": "64",
+        "cost": "less"
+    },
+    {
+        "camera": "good",
+        "battery": "good"
+    },
+    {
+        "size": "big",
+        "radio": "yes",
+        "ram": "6"
+    },
+    {
+        "brand": "samsung",
+        "weight": "light",
+        "cost": "300",
+        "size": "big"
+    },
+    {
+        "size": "big",
+        "camera": "13",
+        "ram": "64",
+        "nll": "null"
+    },
+    {
+        "camera": "good",
+        "weight": "light"
+    },
+    {
+        "brand": "oppo",
+        "gps": "yes",
+        "cost": "less"
+    },
+    {
+        "os": "android",
+        "camera": "good",
+        "weight": "light"
+    },
+    {
+        "brand": "acer",
+        "sim": "t",
+        "color": "blue"
+    },
+    {
+        "size": "small",
+        "battery": "good",
+        "color": "gold",
+        "os": "ios"
+    },
+    {
+        "brand": "asus",
+        "camera": "13"
+    },
+    {
+        "brand": "nokia",
+        "cost": "250",
+        "battery": "good"
+    },
+    {
+        "sim": "m",
+        "year": "2014",
+        "weight": "light"
+    },
+    {
+        "ram": "64",
+        "cost": "less"
+    },
+    {
+        "weight": "light",
+        "size": "big",
+        "color": "gold"
+    },
+    {
+        "brand": "vivo",
+        "camera": "good",
+        "cost": "500"
+    },
+    {
+        "color": "black",
+        "sim": "m",
+        "brand": "samsung",
+        "cost": "400",
+        "size": "small"
+    },
+    {
+        "battery": "good",
+        "ram": "good",
+        "color": "non-gold"
+    },
+    {
+        "battery": "good",
+        "size": "big",
+        "weight": "light"
+    },
+    {
+        "brand": "xiaomi",
+        "size": "small"
+    },
+    {
+        "brand": "apple",
+        "year": "2014",
+        "cost": "600"
+    },
+    {
+        "weight": "light",
+        "ram": "4",
+        "battery": "good",
+        "sim": "dual"
+    },
+    {
+        "weight": "light",
+        "gps": "yes",
+        "size": "big"
+    },
+    {
+        "os": "android",
+        "cost": "700",
+        "ram": "128"
+    },
+    {
+        "sim": "dual",
+        "year": "2015",
+        "color": "black"
+    },
+    {
+        "brand": "oppo",
+        "battery": "good",
+        "cost": "270"
+    },
+    {
+        "brand": "samsung",
+        "sim": "m",
+        "cost": "less",
+        "ram": "4"
+    },
+    {
+        "camera": "13",
+        "size": "small"
+    },
+    {
+        "camera": "16",
+        "weight": "less"
+    },
+    {
+        "color": "silver",
+        "sim": "s",
+        "camera": "good"
+    },
+    {
+        "size": "small",
+        "weight": "light",
+        "camera": "16"
+    },
+    {
+        "brand": "lg",
+        "battery": "good",
+        "cost": "less"
+    },
+    {
+        "brand": "oppo",
+        "camera": "good",
+        "battery": "good",
+        "color": "pink"
+    },
+    {
+        "brand": "acer",
+        "radio": "yes",
+        "ram": "32",
+        "weight": "light"
+    },
+    {
+        "brand": "vivo",
+        "model": "hd",
+        "gps": "yes",
+        "ram": "good",
+        "os": "android"
+    },
+    {
+        "year": "2015",
+        "weight": "light",
+        "camera": "good",
+        "sim": "m"
+    },
+    {
+        "gps": "yes",
+        "size": "big",
+        "cost": "less"
+    },
+    {
+        "ram": "64",
+        "cost": "400",
+        "sim": "m"
+    },
+    {
+        "brand": "asus",
+        "weight": "light",
+        "year": "2016"
+    },
+    {
+        "cost": " 250",
+        "ram": "good"
+    },
+    {
+        "camera": "good",
+        "radio": "yes",
+        "model": "samsung"
+    },
+    {
+        "os": "sym",
+        "battery": "good",
+        "price": "300"
+    },
+    {
+        "year": "2015",
+        "os": "android"
+    },
+    {
+        "model": "apple",
+        "year": "2015",
+        "weight": "light",
+        "size": "average"
+    },
+    {
+        "brand": "vivo",
+        "camera": "good",
+        "weight": "light"
+    },
+    {
+        "camera": "good",
+        "os": "bla",
+        "radio": "yes"
+    },
+    {
+        "brand": "samsung",
+        "sim": "dual",
+        "gps": "yes",
+        "cost": "250"
+    },
+    {
+        "cost": "500",
+        "camera": "good",
+        "ram": "4"
+    },
+    {
+        "camera": "dual",
+        "battery": "good",
+        "sim": "dual",
+        "os": "and"
+    },
+    {
+        "os": "mic",
+        "cost": "300",
+        "color": "black"
+    },
+    {
+        "camera": "dual",
+        "ram": "good"
+    },
+    {
+        "size": "small",
+        "weight": "light",
+        "camera": "dual"
+    },
+    {
+        "sim": "dual",
+        "camera": "dual",
+        "cost": "less"
+    },
+    {
+        "brand": "blackberry",
+        "sim": "m",
+        "cost": "less"
+    },
+    {
+        "brand": "oppo",
+        "camera": "dual",
+        "battery": "good"
+    },
+    {
+        "size": "small",
+        "weight": "light",
+        "camera": "non-vga"
+    },
+    {
+        "battery": "good",
+        "os": "mic",
+        "color": "orange"
+    },
+    {
+        "battery": "good",
+        "brand": "vivo",
+        "os": "android",
+        "size": "big"
+    },
+    {
+        "brand": "xiaomi",
+        "camera": "12",
+        "ram": "64"
+    },
+    {
+        "brand": "huawei",
+        "radio": "yes",
+        "size": "small"
+    },
+    {
+        "brand": "nokia",
+        "battery": "1800",
+        "size": "small"
+    },
+    {
+        "ram": "64",
+        "camera": "12",
+        "radio": "yes"
+    },
+    {
+        "weight": "light",
+        "camera": "dual",
+        "cost": "less"
+    },
+    {
+        "brand": "motorola",
+        "sim": "dual",
+        "ram": "32"
+    },
+    {
+        "size": "big",
+        "gps": "yes",
+        "brand": "gionee",
+        "cost": "500"
+    },
+    {
+        "radio": "yes",
+        "battery": "good",
+        "os": "bla"
+    },
+    {
+        "sim": "m",
+        "ram": "good"
+    },
+    {
+        "year": "2017",
+        "brand": "samsung",
+        "os": "android",
+        "color": "black"
+    },
+    {
+        "brand": "asus",
+        "radio": "yes",
+        "camera": "5"
+    },
+    {
+        "camera": "13",
+        "battery": "high"
+    },
+    {
+        "brand": "blackberry",
+        "color": "black",
+        "cost": "expensive"
+    },
+    {
+        "ram": "64",
+        "brand": "apple",
+        "weight": "light"
+    },
+    {
+        "camera": "good",
+        "weight": "light",
+        "os": "mic"
+    },
+    {
+        "year": "2017",
+        "brand": "samsung",
+        "camera": "dual",
+        "weight": "140"
+    },
+    {
+        "sim": "dual",
+        "gps": "yes",
+        "weight": "less",
+        "year": "2017"
+    },
+    {
+        "camera": "good",
+        "size": "small",
+        "ram": "good"
+    },
+    {
+        "weight": "light",
+        "size": "big",
+        "sim": "dual"
+    },
+    {
+        "color": "black",
+        "model": "samsung",
+        "cost": "expensive"
+    },
+    {
+        "brand": "apple",
+        "ram": "16",
+        "cost": "400"
+    },
+    {
+        "camera": "good",
+        "os": "android",
+        "ram": "64"
+    },
+    {
+        "brand": "motorola",
+        "weight": "light",
+        "os": "mic"
+    },
+    {
+        "brand": "apple",
+        "camera": "dual"
+    },
+    {
+        "year": "2017",
+        "gps": "yes",
+        "brand": "non coolpad"
+    },
+    {
+        "brand": "alcatel",
+        "battery": "good",
+        "cost": "250",
+        "ram": "good"
+    },
+    {
+        "gps": "yes",
+        "size": "small",
+        "battery": "good"
+    },
+    {
+        "brand": "gionee",
+        "weight": "light",
+        "color": "white",
+        "year": "2017",
+        "month": "may"
+    },
+    {
+        "camera": "good",
+        "cost": "400",
+        "sim": "dual"
+    },
+    {
+        "brand": "view",
+        "ram": "good",
+        "battery": "good",
+        "weight": "light"
+    },
+    {
+        "brand": "view",
+        "sim": "dual",
+        "camera": "good"
+    },
+    {
+        "os": "mic",
+        "size": "big",
+        "ram": "good",
+        "camera": "13"
+    },
+    {
+        "brand": "zte",
+        "ram": "good",
+        "radio": "yes"
+    },
+    {
+        "size": "big",
+        "battery": "good",
+        "color": "grey"
+    },
+    {
+        "brand": "xiaomi",
+        "sim": "dual",
+        "cost": "350",
+        "radio": "yes"
+    },
+    {
+        "brand": "asus",
+        "ram": "good",
+        "camera": "good",
+        "cost": "500"
+    },
+    {
+        "cost": "less",
+        "camera": "good",
+        "ram": "good"
+    },
+    {
+        "size": "moderate",
+        "camera": "good",
+        "year": "2016"
+    },
+    {
+        "brand": "coolpad",
+        "ram": "64",
+        "size": "medium"
+    },
+    {
+        "radio": "yes",
+        "camera": "dual",
+        "ram": "6"
+    },
+    {
+        "sim": "m",
+        "cost": "250",
+        "battery": "good"
+    },
+    {
+        "battery": "3000",
+        "brand": "gionee"
+    },
+    {
+        "brand": "gigabyte",
+        "color": "black",
+        "battery": "4000"
+    },
+    {
+        "weight": "light",
+        "size": "medium",
+        "ram": "2"
+    },
+    {
+        "brand": "vivo",
+        "camera": "good",
+        "cost": "250",
+        "size": "medium"
+    },
+    {
+        "weight": "light",
+        "ram": "good",
+        "brand": "samsung",
+        "os": "tiz"
+    },
+    {
+        "brand": "lg",
+        "camera": "13",
+        "ram": "64"
+    },
+    {
+        "brand": "t",
+        "year": "2017"
+    },
+    {
+        "brand": "micromax",
+        "cost": "200"
+    },
+    {
+        "brand": "oppo",
+        "ram": "good",
+        "weight": "light",
+        "camera": "dual"
+    },
+    {
+        "year": "2017",
+        "cost": "350",
+        "camera": "13"
+    },
+    {
+        "brand": "xiaomi",
+        "radio": "yes",
+        "sim": "m",
+        "os": "ios"
+    },
+    {
+        "brand": "htc",
+        "cost": "less"
+    },
+    {
+        "size": "big",
+        "camera": "good",
+        "color": "non-white"
+    },
+    {
+        "os": "sym",
+        "sim": "dual",
+        "size": "medium"
+    },
+    {
+        "brand": "samsung",
+        "size": "small",
+        "os": "sym"
+    },
+    {
+        "brand": "asus",
+        "cost": "280"
+    },
+    {
+        "size": "medium",
+        "battery": "3000",
+        "color": "black"
+    },
+    {
+        "os": "sym",
+        "sim": "m",
+        "size": "small"
+    },
+    {
+        "radio": "yes",
+        "ram": "good",
+        "camera": "good",
+        "year": "2017"
+    },
+    {
+        "brand": "gionee",
+        "year": "recent",
+        "ram": "good",
+        "camera": "good"
+    },
+    {
+        "brand": "huawei",
+        "camera": "good",
+        "year": "2016"
+    },
+    {
+        "camera": "good",
+        "weight": "light",
+        "size": "big"
+    },
+    {
+        "brand": "huawei",
+        "battery": "good",
+        "cost": "350",
+        "camera": "10"
+    },
+    {
+        "ram": "good",
+        "os": "ios",
+        "color": "black",
+        "battery": "good"
+    },
+    {
+        "brand": "asus",
+        "cost": "300"
+    },
+    {
+        "brand": "oppo",
+        "color": "black",
+        "camera": "12"
+    },
+    {
+        "year": "2017",
+        "gps": "yes",
+        "radio": "yes",
+        "ram": "good"
+    },
+    {
+        "size": "medium",
+        "camera": "12"
+    },
+    {
+        "brand": "micromax",
+        "sim": "m",
+        "weight": "light"
+    },
+    {
+        "brand": "huawei",
+        "weight": "light",
+        "size": "medium"
+    },
+    {
+        "camera": "dual",
+        "size": "big"
+    },
+    {
+        "brand": "vodafone",
+        "color": "black",
+        "sim": "m",
+        "camera": "good"
+    },
+    {
+        "battery": "good",
+        "cost": "450",
+        "camera": "13"
+    },
+    {
+        "brand": "vivo",
+        "battery": "good",
+        "cost": "less"
+    },
+    {
+        "brand": "asus",
+        "weight": "light",
+        "battery": "good",
+        "color": "black"
+    },
+    {
+        "year": "2017",
+        "camera": "good",
+        "weight": "light"
+    },
+    {
+        "brand": "oneplus",
+        "camera": "good",
+        "gps": "yes",
+        "radio": "yes",
+        "os": "sym"
+    },
+    {
+        "year": "2017",
+        "weight": "light",
+        "camera": "good",
+        "sim": "m"
+    },
+    {
+        "brand": "vertu",
+        "battery": "good",
+        "camera": "13"
+    },
+    {
+        "camera": "good",
+        "ram": "good"
+    },
+    {
+        "brand": "oppo",
+        "camera": "good",
+        "battery": "good",
+        "color": "gold"
+    },
+    {
+        "radio": "yes",
+        "size": "big",
+        "ram": "good",
+        "weight": "light"
+    },
+    {
+        "color": "black",
+        "sim": "m",
+        "os": "mic",
+        "cost": "150",
+        "ram": "8"
+    },
+    {
+        "brand": "apple",
+        "battery": "good",
+        "ram": "good",
+        "color": "blue"
+    },
+    {
+        "gps": "yes",
+        "battery": "good",
+        "size": "big",
+        "cost": "280"
+    },
+    {
+        "os": "mic",
+        "cost": "less",
+        "ram": "good"
+    },
+    {
+        "size": "big",
+        "radio": "yes",
+        "year": "2017"
+    },
+    {
+        "year": "2017",
+        "month": "may",
+        "radio": "yes",
+        "size": "medium"
+    },
+    {
+        "camera": "good",
+        "battery": "good",
+        "weight": "light"
+    },
+    {
+        "weight": "light",
+        "battery": "good",
+        "radio": "yes",
+        "os": "android"
+    },
+    {
+        "weight": "light",
+        "brand": "samsung",
+        "gps": "yes",
+        "battery": "3000"
+    },
+    {
+        "os": "android",
+        "color": "gold",
+        "ram": "64",
+        "cost": "less"
+    },
+    {
+        "camera": "dual",
+        "battery": "good",
+        "color": "black"
+    },
+    {
+        "brand": "huawei",
+        "size": "big",
+        "radio": "yes",
+        "ram": "128"
+    },
+    {
+        "brand": "samsung",
+        "weight": "light",
+        "gps": "yes",
+        "cost": "300",
+        "size": "small"
+    },
+    {
+        "brand": "motorola",
+        "size": "big",
+        "camera": "13",
+        "radio": "yes",
+        "nll": "null"
+    },
+    {
+        "camera": "good",
+        "weight": "light",
+        "ram": "64"
+    },
+    {
+        "brand": "htc",
+        "gps": "yes",
+        "cost": "300"
+    },
+    {
+        "brand": "apple",
+        "os": "ios",
+        "camera": "good",
+        "weight": "light"
+    },
+    {
+        "apple": "null",
+        "year": "2016",
+        "color": "blue"
+    },
+    {
+        "brand": "samsung",
+        "size": "small",
+        "battery": "good",
+        "color": "white",
+        "os": "mic"
+    },
+    {
+        "brand": "blackberry",
+        "battery": "good",
+        "camera": "good"
+    },
+    {
+        "brand": "asus",
+        "cost": "300",
+        "battery": "good"
+    },
+    {
+        "year": "2017",
+        "camera": "good",
+        "weight": "light"
+    },
+    {
+        "ram": "4",
+        "sim": "dual",
+        "cost": "less"
+    },
+    {
+        "os": "android",
+        "weight": "light",
+        "size": "big",
+        "color": "grey"
+    },
+    {
+        "brand": "oneplus",
+        "camera": "good",
+        "cost": "300"
+    },
+    {
+        "brand": "samsung",
+        "sim": "m",
+        "cost": "260",
+        "size": "medium"
+    },
+    {
+        "battery": "good",
+        "gps": "yes",
+        "radio": "yes",
+        "color": "grey"
+    },
+    {
+        "brand": "nokia",
+        "cost": "200",
+        "weight": "light"
+    },
+    {
+        "brand": "blackberry",
+        "weight": "light",
+        "size": "medium"
+    },
+    {
+        "brand": "samsung",
+        "year": "2016",
+        "cost": "250"
+    },
+    {
+        "brand": "gionee",
+        "ram": "32",
+        "battery": "good",
+        "sim": "m"
+    },
+    {
+        "weight": "light",
+        "gps": "yes",
+        "size": "big"
+    },
+    {
+        "brand": "samsung",
+        "os": "android",
+        "cost": "800",
+        "ram": "good"
+    },
+    {
+        "sim": "s",
+        "year": "2016",
+        "color": "blue"
+    },
+    {
+        "brand": "lg",
+        "battery": "good",
+        "cost": "250"
+    },
+    {
+        "brand": "vivo",
+        "sim": "m",
+        "cost": "less",
+        "ram": "32"
+    },
+    {
+        "camera": "12",
+        "size": "small"
+    },
+    {
+        "camera": "16",
+        "weight": "light"
+    },
+    {
+        "color": "black",
+        "sim": "m",
+        "os": "android",
+        "camera": "good"
+    },
+    {
+        "size": "small",
+        "weight": "light",
+        "cost": "less",
+        "camera": "8"
+    },
+    {
+        "brand": "oneplus",
+        "battery": "good",
+        "gps": "yes",
+        "os": "ios"
+    },
+    {
+        "brand": "oppo",
+        "camera": "good",
+        "battery": "good",
+        "color": "blue"
+    },
+    {
+        "brand": "htc",
+        "radio": "yes",
+        "ram": "64",
+        "weight": "light"
+    },
+    {
+        "brand": "vivo",
+        "camera": "good",
+        "gps": "yes",
+        "battery": "good",
+        "os": "sym"
+    },
+    {
+        "year": "2017",
+        "weight": "light",
+        "camera": "good",
+        "sim": "s"
+    },
+    {
+        "radio": "yes",
+        "size": "medium",
+        "cost": "less"
+    },
+    {
+        "ram": "64",
+        "cost": "400",
+        "sim": "m"
+    },
+    {
+        "brand": "sony",
+        "weight": "light",
+        "year": "2017"
+    },
+    {
+        "gps": "yes",
+        "cost": "300",
+        "ram": "good"
+    },
+    {
+        "camera": "good",
+        "radio": "yes",
+        "model": "samsung"
+    },
+    {
+        "os": "ios",
+        "battery": "good",
+        "price": "300"
+    },
+    {
+        "year": "2014",
+        "os": "android"
+    },
+    {
+        "year": "2017",
+        "weight": "light",
+        "size": "medium"
+    },
+    {
+        "brand": "blackberry",
+        "camera": "good",
+        "weight": "light"
+    },
+    {
+        "camera": "good",
+        "os": "ios",
+        "radio": "yes"
+    },
+    {
+        "brand": "samsung",
+        "sim": "dual",
+        "gps": "yes",
+        "cost": "350"
+    },
+    {
+        "cost": "450",
+        "camera": "good",
+        "ram": "4"
+    },
+    {
+        "camera": "dual",
+        "battery": "good",
+        "sim": "dual",
+        "os": " bla"
+    },
+    {
+        "radio": "yes",
+        "cost": "300",
+        "camera": "dual"
+    },
+    {
+        "camera": "dual",
+        "gps": "yes",
+        "os": "ios"
+    },
+    {
+        "size": "small",
+        "weight": "light",
+        "camera": "13"
+    },
+    {
+        "sim": "s",
+        "camera": "dual",
+        "cost": "less"
+    },
+    {
+        "sim": "m",
+        "brand": "gionee",
+        "cost": "less"
+    },
+    {
+        "brand": "zte",
+        "camera": "dual",
+        "battery": "good"
+    },
+    {
+        "size": "small",
+        "radio": "yes",
+        "camera": "non-vga"
+    },
+    {
+        "camera": "good",
+        "os": "ios",
+        "color": "blue"
+    },
+    {
+        "battery": "good",
+        "brand": "samsung",
+        "os": "android",
+        "size": "medium"
+    },
+    {
+        "brand": "samsung",
+        "camera": "13",
+        "ram": "64"
+    },
+    {
+        "brand": "view",
+        "weight": "light",
+        "size": "small"
+    },
+    {
+        "brand": "huawei",
+        "battery": "3500",
+        "weight": "light"
+    },
+    {
+        "ram": "6",
+        "camera": "12",
+        "radio": "yes"
+    },
+    {
+        "weight": "light",
+        "color": "black",
+        "cost": "less"
+    },
+    {
+        "brand": "samsung",
+        "weight": "light",
+        "ram": "64"
+    },
+    {
+        "size": "big",
+        "camera": "good",
+        "cost": "350"
+    },
+    {
+        "os": "android",
+        "battery": "3000",
+        "ram": "3",
+        "color": "blue"
+    },
+    {
+        "brand": "samsung",
+        "camera": "good",
+        "ram": "good"
+    },
+    {
+        "year": "recent",
+        "brand": "vivo",
+        "os": "android",
+        "color": "black"
+    },
+    {
+        "brand": "t",
+        "cost": "250",
+        "os": "mic"
+    },
+    {
+        "year": "latest",
+        "camera": "8",
+        "battery": "high"
+    },
+    {
+        "brand": "micromax",
+        "color": "black",
+        "cost": "expensive"
+    },
+    {
+        "ram": "64",
+        "cost": "less",
+        "brand": "gionee"
+    },
+    {
+        "camera": "good",
+        "weight": "light",
+        "os": "ios"
+    },
+    {
+        "year": "2017",
+        "brand": "xiaomi",
+        "camera": "13",
+        "weight": "150"
+    },
+    {
+        "sim": "dual",
+        "gps": "yes",
+        "radio": "yes",
+        "year": "2017"
+    },
+    {
+        "camera": "good",
+        "size": "small",
+        "ram": "good"
+    },
+    {
+        "os": "android",
+        "size": "big",
+        "sim": "m"
+    },
+    {
+        "color": "black",
+        "model": "apple",
+        "year": "latest",
+        "cost": "expensive"
+    },
+    {
+        "brand": "meizu",
+        "ram": "6",
+        "cost": "400"
+    },
+    {
+        "camera": "good",
+        "os": "ios",
+        "ram": "32"
+    },
+    {
+        "brand": "archos",
+        "weight": "light",
+        "os": "android"
+    },
+    {
+        "brand": "alcatel",
+        "camera": "13"
+    },
+    {
+        "year": "2017",
+        "cost": "less",
+        "color": "blue"
+    },
+    {
+        "brand": "alcatel",
+        "battery": "good",
+        "cost": "700",
+        "ram": "good"
+    },
+    {
+        "gps": "yes",
+        "weight": "light",
+        "battery": "good"
+    },
+    {
+        "brand": "huawei",
+        "size": "medium",
+        "os": "android",
+        "year": "2016"
+    },
+    {
+        "camera": "good",
+        "cost": "200",
+        "year": "2017"
+    },
+    {
+        "brand": "samsung",
+        "battery": "good",
+        "cost": "less",
+        "weight": "light"
+    },
+    {
+        "brand": "samsung",
+        "sim": "s",
+        "camera": "good"
+    },
+    {
+        "size": "big",
+        "ram": "good",
+        "camera": "non-vga"
+    },
+    {
+        "brand": "htc",
+        "ram": "good",
+        "radio": "yes"
+    },
+    {
+        "size": "medium",
+        "camera": "good",
+        "color": "blue"
+    },
+    {
+        "brand": "xiaomi",
+        "sim": "m",
+        "cost": "250",
+        "radio": "yes"
+    },
+    {
+        "brand": "oppo",
+        "memory": "good",
+        "camera": "good",
+        "cost": "400"
+    },
+    {
+        "cost": "less",
+        "camera": "good",
+        "ram": "good"
+    },
+    {
+        "size": "small",
+        "camera": "good",
+        "year": "latest"
+    },
+    {
+        "brand": "google",
+        "ram": "64",
+        "size": "medium"
+    },
+    {
+        "radio": "yes",
+        "camera": "good",
+        "gps": "yes",
+        "ram": "6"
+    },
+    {
+        "year": "2017",
+        "cost": "250",
+        "battery": "good"
+    },
+    {
+        "battery": "4000",
+        "model": "xiaomi"
+    },
+    {
+        "model": "gionee",
+        "color": "gray",
+        "battery": "4500"
+    },
+    {
+        "camera": "good",
+        "size": "medium",
+        "os": "mic"
+    },
+    {
+        "brand": "oppo",
+        "camera": "good",
+        "cost": "200",
+        "size": "medium"
+    },
+    {
+        "sim": "m",
+        "brand": "lenovo",
+        "cost": "less"
+    },
+    {
+        "camera": "good",
+        "weight": "light",
+        "battery": "good"
+    },
+    {
+        "year": "recent",
+        "ram": "64",
+        "brand": "oneplus",
+        "os": "sym"
+    },
+    {
+        "radio": "yes",
+        "gps": "yes",
+        "ram": "good"
+    },
+    {
+        "brand": "sony",
+        "year": "latest"
+    },
+    {
+        "battery": "good",
+        "size": "big",
+        "cost": "500"
+    },
+    {
+        "brand": "vertu",
+        "ram": "good",
+        "weight": "light",
+        "camera": "dual"
+    },
+    {
+        "year": "2016",
+        "cost": "250",
+        "camera": "13"
+    },
+    {
+        "brand": "hp",
+        "radio": "yes",
+        "sim": "dual",
+        "os": "mic"
+    },
+    {
+        "brand": "samsung",
+        "cost": "less"
+    }
+]
